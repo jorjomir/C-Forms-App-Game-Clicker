@@ -1,0 +1,22 @@
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.csprojResolveAssemblyReference.cache
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.Cache
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\MGPLEVEN\Documents\Georgi XIIv\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\jorjomir\Desktop\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\jorjomir\Desktop\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\jorjomir\Desktop\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.csprojAssemblyReference.cache
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\jorjomir\Desktop\Clicker\Clicker\bin\Debug\aa\Clicker.resources.dll
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\Clicker.Form1.aa.resources
+C:\Users\jorjomir\Desktop\Clicker\Clicker\obj\Debug\aa\Clicker.resources.dll
